@@ -1,0 +1,20 @@
+gem install bundler - устанавливаем bundler
+gem install rails - устанавливем рельсы
+
+rails new my_furst_progect - для creat new project
+rails s - развернуть сервер
+my_furst_progect 
+
+http://stackoverflow.com/questions/35315712/rails-initialization-checksum-error - решение проблемы с настройкой 
+сервака в винде
+
+bundle install - собирает все гемы
+
+
+https://www.youtube.com/watch?v=ecxezoc0uv0 - создание блога на рельсах за 30 минут
+
+users/sing_up для регистраии пользователя
+
+bundle update sqlite3 - для установки БД
+
+http://localhost:3000 адрес сервера
